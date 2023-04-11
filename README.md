@@ -11,3 +11,4 @@ Analysis
 4. Relationship between the price of an Airbnb listing and the number of bedrooms it offers
 
 Interact with Dashboard [here](https://public.tableau.com/app/profile/ifeloluwa.bakare/viz/AirBnb_16811678012420/AirBnbDashboard)
+![Screenshot (57)](https://user-images.githubusercontent.com/61271340/231023761-c08f8d84-c2e9-42c2-8bd6-3b0b273fa5a0.png)
